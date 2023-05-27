@@ -1,4 +1,4 @@
-![download](https://github.com/sampathshivakumar/Maven-Web-Application/assets/119833411/54051019-0f32-464d-be7a-24a7993ffad5)
+![download](https://github.com/sampathshivakumar/Maven-Web-Application/assets/119833411/c2836f92-e4a4-4bef-b241-8e070f126690)
 ## Maven Web Application
 ### We can create a simple maven web application by executing the archetype:generate command of mvn tool.
 ### Syntax: 
@@ -13,11 +13,11 @@ mvn archetype:generate -DgroupId=com.myproject -DartifactId=mywebapp
 
 ```
 ### Output:
-![3](https://github.com/sampathshivakumar/Maven-Web-Application/assets/119833411/9a747c18-0988-4f4f-bce2-7ac675935249)
+![3](https://github.com/sampathshivakumar/Maven-Web-Application/assets/119833411/aad2fb4c-8c4b-462f-9976-21605a81dfbd)
 
-![2](https://github.com/sampathshivakumar/Maven-Web-Application/assets/119833411/c5f662e4-e8a8-4b44-8564-6ba7fa35da74)
+![2](https://github.com/sampathshivakumar/Maven-Web-Application/assets/119833411/eb06908c-edbe-40a1-94f0-a06eb1469f31)
 
 ### Maven WebApp Project Directory Structure:
-![4](https://github.com/sampathshivakumar/Maven-Web-Application/assets/119833411/ac289e52-7339-4ee6-bf1f-333f83408fd6)
+![4](https://github.com/sampathshivakumar/Maven-Web-Application/assets/119833411/e9050516-a05c-4a5e-ae1f-87eac0573fed)
 
 
